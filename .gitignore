@@ -1,0 +1,31 @@
+# snips
+*.png
+
+# debug files
+debug/
+
+#demo files
+demo/
+
+# build files
+build/
+out/
+*.exe
+
+# google benchmark deps
+benchmark/
+
+# VS and VS code
+.vs/
+.vscode/
+CMakeSettings.json
+
+
+# cmake files
+/Testing
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# makefiles
+Makefile
